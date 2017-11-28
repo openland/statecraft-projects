@@ -1,118 +1,118 @@
-PERMIT_ID,NAMEADDR,YEAR_END_PREDICTED,QUARTER_END_PREDICTED,DURATION_PREDICTED,DURATION,UNITS,NET_UNITS,YEAR_END,QUARTER_END,YEAR_START,QUARTER_START,LOCATION,PERMIT_TYPE
-N201406138394,150 VAN NESS AV,2018,3,7,3,431,431,2017,2,2016,4,"(37.7773017883, -122.418296814)",new construction
-N201406259383,800 INDIANA ST,2018,2,8,5,326,326,2017,2,2016,2,"(37.7591972351, -122.3917312622)",new construction
-N201312204747,706 MISSION ST,2018,3,5,1,185,185,2017,2,2017,2,"(37.7862052917, -122.4025344849)",additions alterations or repairs
-N201510301302,OCEANWIDE (MISSION ST TOWER),2018,3,5,1,153,153,2017,2,2017,2,"(37.7894706726, -122.3983840942)",new construction
-N201507272485,MISSION BAY BLOCK 6E,2018,1,5,3,143,143,2017,2,2016,4,"(37.7714004517, -122.3917694092)",new construction
-N201602179822,168 - 186 EDDY ST,2018,4,6,1,113,113,2017,2,2017,2,"(37.7846603394, -122.410697937)",new construction
-N201405286908,1075 MARKET ST,2018,2,6,3,90,90,2017,2,2016,4,"(37.7806434631, -122.4116134644)",new construction
-N201406249199,TRANSBAY BLOCK 7,2018,1,6,4,85,85,2017,2,2016,3,"(37.7887039185, -122.3936080933)",new construction
-N201406269523,1036 - 1040 MISSION ST,2018,2,6,3,83,83,2017,2,2016,4,"(37.7805862427, -122.4097824097)",new construction
-N201602230301,750 HARRISON ST,2018,2,6,3,79,79,2017,2,2016,4,"(37.7817802429, -122.3986740112)",new construction
-N201603172392,HOPE SF POTRERO (BP ISSUED),2018,4,7,2,72,72,2017,2,2017,1,"(37.7572364807, -122.3944473267)",new construction
-N201405054911,815 TENNESSEE ST,2018,2,6,3,69,69,2017,2,2016,4,"(37.7612266541, -122.389251709)",new construction
-N201006104250,5050 MISSION ST,2018,1,7,5,61,61,2017,2,2016,2,"(37.7177314758, -122.4405899048)",new construction
-N201507141495,1198 VALENCIA ST,2018,2,6,3,49,49,2017,2,2016,4,"(37.7539329529, -122.4211807251)",new construction wood frame
-N200806275522,5400 GEARY BL,2018,1,7,5,41,41,2017,2,2016,2,"(37.7811050415, -122.4775924683)",new construction wood frame
-N201406249298,119 07TH ST,2018,4,7,2,39,39,2017,2,2017,1,"(37.7790718079, -122.4103088379)",new construction
-N201507161644,1238 SUTTER ST,2018,2,6,3,37,37,2017,2,2016,4,"(37.7879295349, -122.4208221436)",additions alterations or repairs
-N201504093240,22 FRANKLIN ST,2018,3,6,2,35,35,2017,2,2017,1,"(37.7747268677, -122.4206008911)",new construction
-N201508134190,240 - 290 PACIFIC AV,2018,4,6,1,33,33,2017,2,2017,2,"(37.797870636, -122.4004516602)",new construction
-N201606281077,75 ARKANSAS ST,2018,4,6,1,30,30,2017,2,2017,2,"(37.7653961182, -122.3984069824)",new construction wood frame
-N201512235830,1598 BAY ST,2018,4,6,1,28,28,2017,2,2017,2,"(37.8033714294, -122.433052063)",new construction wood frame
-N201501145720,27 KIRKWOOD AV,2018,3,5,1,21,21,2017,2,2017,2,"(37.7266921997, -122.3694915771)",new construction wood frame
-N201306149565,1255 - 1275 COLUMBUS AV,2018,3,5,1,20,20,2017,2,2017,2,"(37.8057098389, -122.4183807373)",new construction wood frame
-N201508063607,595 MARIPOSA ST,2018,3,5,1,20,20,2017,2,2017,2,"(37.7641410828, -122.3895263672)",new construction wood frame
-N201412113580,77 KIRKWOOD AV,2018,3,5,1,18,18,2017,2,2017,2,"(37.7271385193, -122.3709640503)",new construction wood frame
-N201404223881,1463 LOMBARD ST,2018,1,5,3,14,14,2017,2,2016,4,"(37.8008575439, -122.4254989624)",new construction
-N200712140534,1 STANYAN ST,2018,2,5,2,13,13,2017,2,2017,1,"(37.7810707092, -122.4565200806)",new construction wood frame
-N201410108646,949 NATOMA ST,2018,1,4,2,6,6,2017,2,2017,1,"(37.7739067078, -122.4153594971)",new construction wood frame
-N201410179280,4334 GEARY BL,2018,2,4,1,6,6,2017,2,2017,2,"(37.7812957764, -122.4660186768)",new construction
-N201510200295,1032 PACIFIC AV,2018,2,4,1,6,6,2017,2,2017,2,"(37.79637146, -122.4122619629)",new construction
-N201501085203,657 CAPP ST,2018,3,5,1,9,5,2017,2,2017,2,"(37.7562484741, -122.4174499512)",additions alterations or repairs
-N201502138349,854 CAPP ST,2018,3,5,1,6,5,2017,2,2017,2,"(37.7530059814, -122.4177322388)",new construction wood frame
-N201405216382,965 POWHATTAN AV,2018,3,5,1,4,4,2017,2,2017,2,"(37.7415084839, -122.4103469849)",new construction wood frame
-N201506239703,750 14TH ST,2018,3,5,1,14,4,2017,2,2017,2,"(37.7678756714, -122.4302902222)",additions alterations or repairs
-N201410169154,4171 24TH ST,2018,1,5,3,5,4,2017,2,2016,4,"(37.7509651184, -122.4355392456)",new construction
-N201505297566,3902 24TH ST,2018,3,5,1,3,3,2017,2,2017,2,"(37.751750946, -122.429901123)",new construction wood frame
-N200703307744,1225 DOLORES ST,2018,3,5,1,3,3,2017,2,2017,2,"(37.749835968, -122.4245376587)",new construction wood frame
-N201505227051,115 TELEGRAPH HILL BL,2018,3,5,1,3,3,2017,2,2017,2,"(37.8016014099, -122.40574646)",new construction
-N201410108600,44 WOODWARD ST,2018,2,5,2,3,3,2017,2,2017,1,"(37.7691421509, -122.4210510254)",new construction wood frame
-N201603081451,630 NATOMA ST,2018,3,5,1,3,3,2017,2,2017,2,"(37.7779350281, -122.4108123779)",new construction wood frame
-N201504234455,2755 MCALLISTER ST,2018,2,5,2,3,3,2017,2,2017,1,"(37.7750740051, -122.4574508667)",new construction wood frame
-N201505287452,811 TREAT AV,2018,2,5,2,7,2,2017,2,2017,1,"(37.7568702698, -122.4130859375)",additions alterations or repairs
-N201402269332,580 DE HARO ST,2018,2,5,2,2,2,2017,2,2017,1,"(37.7625656128, -122.4016952515)",new construction wood frame
-N201412184051,460 31ST AV,2018,3,5,1,2,2,2017,2,2017,2,"(37.7806282043, -122.4908905029)",new construction wood frame
-N201404173443,2621 HARRISON ST,2018,3,5,1,3,2,2017,2,2017,2,"(37.7553787231, -122.4118423462)",additions alterations or repairs
-N200803288288,1169 STANYAN ST,2018,3,5,1,2,2,2017,2,2017,2,"(37.7628746033, -122.4525527954)",new construction wood frame
-N201405236581,1236 ARGUELLO BL,2018,1,5,3,3,2,2017,2,2016,4,"(37.7652664185, -122.4573440552)",additions alterations or repairs
-N201503201461,2920 FRANKLIN ST,2018,3,5,1,2,2,2017,2,2017,2,"(37.8015365601, -122.425994873)",new construction wood frame
-N201605137452,38 BELVEDERE ST,2018,3,5,1,8,2,2017,2,2017,2,"(37.7691688538, -122.44921875)",additions alterations or repairs
-N201405155866,423 24TH AV,2018,3,5,1,3,2,2017,2,2017,2,"(37.7815666199, -122.4841003418)",additions alterations or repairs
-N201403271860,3527 18TH ST,2018,1,5,3,10,2,2017,2,2016,4,"(37.7614784241, -122.4222412109)",additions alterations or repairs
-N201411262632,151 BERNARD ST,2018,1,5,3,3,2,2017,2,2016,4,"(37.7960929871, -122.4159240723)",additions alterations or repairs
-N201502249220,1152 POTRERO AV,2018,3,5,1,3,2,2017,2,2017,2,"(37.7537078857, -122.4067459106)",additions alterations or repairs
-N201512235842,126 LAGUNA ST,2018,3,5,1,7,2,2017,2,2017,2,"(37.7722511292, -122.4251327515)",additions alterations or repairs
-N201408133730,160 BERNARD ST,2018,3,5,1,2,2,2017,2,2017,2,"(37.7963294983, -122.4160614014)",new construction
-N200804038738,1321 DE HARO ST,2018,1,5,3,3,2,2017,2,2016,4,"(37.7531356812, -122.4001693726)",new construction wood frame
-N201402078043,1236 19TH AV,2018,3,5,1,3,2,2017,2,2017,2,"(37.7646827698, -122.4768753052)",additions alterations or repairs
-N201505287372,175 MAYNARD ST,2018,2,4,1,2,1,2017,2,2017,2,"(37.7295913696, -122.4266052246)",additions alterations or repairs
-N201505126084,2 BONVIEW ST,2018,2,4,1,1,1,2017,2,2017,2,"(37.7449798584, -122.4158401489)",new construction wood frame
-N201608256030,1946 QUESADA AV,2018,2,4,1,2,1,2017,2,2017,2,"(37.7361793518, -122.3959197998)",additions alterations or repairs
-N201012076279,220 WILLIAMS AV,2018,2,4,1,1,1,2017,2,2017,2,"(37.7302360535, -122.397605896)",new construction wood frame
-N201703292632,1826 FILBERT ST,2018,2,4,1,2,1,2017,2,2017,2,"(37.7990188599, -122.4296951294)",otc alterations permit
-N201312265039,23 CANYON DR,2018,2,4,1,1,1,2017,2,2017,2,"(37.7084579468, -122.4319229126)",new construction wood frame
-N201410219535,167 HARVARD ST,2018,2,4,1,2,1,2017,2,2017,2,"(37.7275619507, -122.4207229614)",additions alterations or repairs
-N201312204680,2251 GREENWICH ST,2018,2,4,1,1,1,2017,2,2017,2,"(37.7985801697, -122.4367218018)",new construction
-N201603071401,1615 OAKDALE AV,2018,2,4,1,3,1,2017,2,2017,2,"(37.7348327637, -122.3912811279)",additions alterations or repairs
-N201601076586,1500 INNES AV,2018,2,4,1,3,1,2017,2,2017,2,"(37.7386360168, -122.3869171143)",additions alterations or repairs
-N201407312605,1318 HAMPSHIRE ST,2018,2,4,1,2,1,2017,2,2017,2,"(37.750995636, -122.4073410034)",additions alterations or repairs
-N201507313053,1230 21ST AV,2018,2,4,1,2,1,2017,2,2017,2,"(37.7647247314, -122.4790420532)",additions alterations or repairs
-N201411030494,2008 KEITH ST,2018,2,4,1,1,1,2017,2,2017,2,"(37.7285804749, -122.390411377)",new construction wood frame
-N201511233353,11 HILIRITAS AV,2018,1,4,2,1,1,2017,2,2017,1,"(37.7376098633, -122.4370422363)",new construction wood frame
-N201610039432,121 CAYUGA AV,2018,2,4,1,2,1,2017,2,2017,2,"(37.7309417725, -122.4308547974)",additions alterations or repairs
-N201412123652,37 BLAKE ST,2018,2,4,1,2,1,2017,2,2017,2,"(37.7830581665, -122.4516525269)",new construction wood frame
-N201303071745,680 SPRUCE ST,2018,1,4,2,2,1,2017,2,2017,1,"(37.7823066711, -122.4529724121)",additions alterations or repairs
-N201401307462,1117 HOWARD ST,2018,1,4,2,1,1,2017,2,2017,1,"(37.7774848938, -122.4095611572)",additions alterations or repairs
-N201411191947,116 ELSIE ST,2018,1,4,2,1,1,2017,2,2017,1,"(37.7428245544, -122.4179000854)",new construction wood frame
-N201407181635,647 DUNCAN ST,2018,1,4,2,1,1,2017,2,2017,1,"(37.7454032898, -122.4343338013)",new construction wood frame
-N201601227749,636 CAROLINA ST,2018,1,4,2,2,1,2017,2,2017,1,"(37.7605133057, -122.4005203247)",additions alterations or repairs
-N201602189872,3669 - 3671 23RD ST,2018,1,4,2,3,1,2017,2,2017,1,"(37.7533035278, -122.4245758057)",additions alterations or repairs
-N201404143170,2582 FILBERT ST,2018,1,4,2,1,1,2017,2,2017,1,"(37.7975311279, -122.4418640137)",new construction wood frame
-N201403261777,225 17TH AV,2018,1,4,2,2,1,2017,2,2017,1,"(37.783782959, -122.4767303467)",additions alterations or repairs
-N201112090432,209 PRENTISS ST,2018,1,4,2,1,1,2017,2,2017,1,"(37.7399940491, -122.411895752)",new construction wood frame
-N201410158900,19 ARGUELLO BL,2018,1,4,2,1,1,2017,2,2017,1,"(37.7891273499, -122.4598236084)",new construction wood frame
-N201311222590,1801 SCOTT ST,2018,1,4,2,1,1,2017,2,2017,1,"(37.786491394, -122.4385986328)",new construction wood frame
-N201512114904,1339 FRANCISCO ST,2018,1,4,2,3,1,2017,2,2017,1,"(37.8026390076, -122.4271850586)",additions alterations or repairs
-N201605177697,1199 DOLORES ST,2018,1,4,2,3,1,2017,2,2017,1,"(37.7503929138, -122.4246292114)",additions alterations or repairs
-N200803288274,1167 STANYAN ST,2018,2,4,1,1,1,2017,2,2017,2,"(37.7629432678, -122.4525680542)",new construction wood frame
-N201604154912,3646 16TH ST,2018,2,4,1,3,1,2017,2,2017,2,"(37.7644386292, -122.434211731)",additions alterations or repairs
-N201506259933,3551 PIERCE ST,2018,2,4,1,3,1,2017,2,2017,2,"(37.8033218384, -122.4403305054)",additions alterations or repairs
-N201504062845,3938 17TH ST,2018,2,4,1,2,1,2017,2,2017,2,"(37.7628326416, -122.4338378906)",additions alterations or repairs
-N201601147151,458 12TH AV,2018,2,4,1,3,1,2017,2,2017,2,"(37.7795791626, -122.4702911377)",additions alterations or repairs
-N201302281136,477 EUCALYPTUS DR,2018,2,4,1,1,1,2017,2,2017,2,"(37.7305030823, -122.4783859253)",new construction wood frame
-N201603283243,505 CHURCH ST,2018,2,4,1,11,1,2017,2,2017,2,"(37.7626533508, -122.4282913208)",additions alterations or repairs
-N201310310802,522 08TH AV,2018,2,4,1,2,1,2017,2,2017,2,"(37.7785301208, -122.465927124)",additions alterations or repairs
-N201305096539,53 MANZANITA AV,2018,2,4,1,2,1,2017,2,2017,2,"(37.7850036621, -122.4513549805)",additions alterations or repairs
-N201503191389,550 07TH AV,2018,2,4,1,2,1,2017,2,2017,2,"(37.7780990601, -122.4648208618)",additions alterations or repairs
-N200810295438,563 34TH AV,2018,2,4,1,2,1,2017,2,2017,2,"(37.7784080505, -122.4946212769)",additions alterations or repairs
-N201505126076,6 BONVIEW ST,2018,2,4,1,1,1,2017,2,2017,2,"(37.744884491, -122.4158706665)",new construction wood frame
-N201404304602,6423 CALIFORNIA ST,2018,2,4,1,2,1,2017,2,2017,2,"(37.7835693359, -122.4865112305)",additions alterations or repairs
-N201607142411,69 HENRY ST,2018,2,4,1,1,1,2017,2,2017,2,"(37.7664718628, -122.4325027466)",additions alterations or repairs
-N201701066618,76 OAKWOOD ST,2018,2,4,1,2,1,2017,2,2017,2,"(37.7603111267, -122.4251861572)",additions alterations or repairs
-N201411040616,831 CHENERY ST,2018,2,4,1,1,1,2017,2,2017,2,"(37.7346687317, -122.4361953735)",new construction wood frame
-N201404183603,852 GREEN ST,2018,2,4,1,2,1,2017,2,2017,2,"(37.7992706299, -122.4132080078)",additions alterations or repairs
-N201504214236,2536 PACHECO ST,2018,2,4,1,2,1,2017,2,2017,2,"(37.7502212524, -122.4876022339)",additions alterations or repairs
-N201602240424,2526 16TH AV,2018,2,4,1,2,1,2017,2,2017,2,"(37.740776062, -122.4719696045)",additions alterations or repairs
-N201510230698,2306 CASTRO ST,2018,2,4,1,1,1,2017,2,2017,2,"(37.7430839539, -122.4335784912)",new construction wood frame
-N201410159002,1560 DOLORES ST,2018,2,4,1,2,1,2017,2,2017,2,"(37.7443504333, -122.4248123169)",additions alterations or repairs
-N201510159839,2123 30TH AV,2018,2,4,1,2,1,2017,2,2017,2,"(37.7476272583, -122.4881591797)",additions alterations or repairs
-N201312134205,3721 21ST ST,2018,2,4,1,1,1,2017,2,2017,2,"(37.7560806274, -122.4306335449)",new construction wood frame
-N201410027946,371 12TH AV,2018,2,4,1,2,1,2017,2,2017,2,"(37.7813262939, -122.4710769653)",additions alterations or repairs
-N201412234391,37 RUTLEDGE ST,2018,2,4,1,1,1,2017,2,2017,2,"(37.7450218201, -122.4062423706)",new construction wood frame
-N201607051512,278 11TH AV,2018,2,4,1,3,1,2017,2,2017,2,"(37.7831344604, -122.4694747925)",additions alterations or repairs
-N201507091106,100 TERRA VISTA AV,2018,2,4,1,5,1,2017,2,2017,2,"(37.7816123962, -122.4437942505)",additions alterations or repairs
-N201601086723,206 SAN JOSE AV,2018,2,4,1,3,1,2017,2,2017,2,"(37.75182724, -122.4218444824)",additions alterations or repairs
-N201704264920,208 FLOOD AV,2018,2,4,1,2,1,2017,2,2017,2,"(37.7300262451, -122.4445266724)",additions alterations or repairs
-N201402259238,259 ROOSEVELT WY,2018,2,4,1,2,1,2017,2,2017,2,"(37.7656707764, -122.4402618408)",new construction wood frame
-N201506017714,93 SATURN ST,2018,2,4,1,3,1,2017,2,2017,2,"(37.762462616, -122.4428710938)",additions alterations or repairs
+PERMIT_ID,NAMEADDR,YEAR_END_PREDICTED,QUARTER_END_PREDICTED,DURATION_PREDICTED,DURATION,UNITS,NET_UNITS,YEAR_END,QUARTER_END,YEAR_START,QUARTER_START,LOCATION,PERMIT_TYPE,2016Q4,2017Q1,2017Q2
+N201406138394,150 VAN NESS AV,2018,3,7,3,431,431,2017,2,2016,4,"(37.7773017883, -122.418296814)",new construction,in construction,in construction,in construction
+N201406259383,800 INDIANA ST,2018,2,8,5,326,326,2017,2,2016,2,"(37.7591972351, -122.3917312622)",new construction,in construction,in construction,in construction
+N201312204747,706 MISSION ST,2018,3,5,1,185,185,2017,2,2017,2,"(37.7862052917, -122.4025344849)",additions alterations or repairs,not listed,not listed,in construction
+N201510301302,OCEANWIDE (MISSION ST TOWER),2018,3,5,1,153,153,2017,2,2017,2,"(37.7894706726, -122.3983840942)",new construction,not listed,not listed,in construction
+N201507272485,MISSION BAY BLOCK 6E,2018,1,5,3,143,143,2017,2,2016,4,"(37.7714004517, -122.3917694092)",new construction,in construction,in construction,in construction
+N201602179822,168 - 186 EDDY ST,2018,4,6,1,113,113,2017,2,2017,2,"(37.7846603394, -122.410697937)",new construction,not listed,not listed,in construction
+N201405286908,1075 MARKET ST,2018,2,6,3,90,90,2017,2,2016,4,"(37.7806434631, -122.4116134644)",new construction,in construction,in construction,in construction
+N201406249199,TRANSBAY BLOCK 7,2018,1,6,4,85,85,2017,2,2016,3,"(37.7887039185, -122.3936080933)",new construction,in construction,in construction,in construction
+N201406269523,1036 - 1040 MISSION ST,2018,2,6,3,83,83,2017,2,2016,4,"(37.7805862427, -122.4097824097)",new construction,in construction,in construction,in construction
+N201602230301,750 HARRISON ST,2018,2,6,3,79,79,2017,2,2016,4,"(37.7817802429, -122.3986740112)",new construction,in construction,in construction,in construction
+N201603172392,HOPE SF POTRERO (BP ISSUED),2018,4,7,2,72,72,2017,2,2017,1,"(37.7572364807, -122.3944473267)",new construction,not listed,in construction,in construction
+N201405054911,815 TENNESSEE ST,2018,2,6,3,69,69,2017,2,2016,4,"(37.7612266541, -122.389251709)",new construction,in construction,in construction,in construction
+N201006104250,5050 MISSION ST,2018,1,7,5,61,61,2017,2,2016,2,"(37.7177314758, -122.4405899048)",new construction,in construction,in construction,in construction
+N201507141495,1198 VALENCIA ST,2018,2,6,3,49,49,2017,2,2016,4,"(37.7539329529, -122.4211807251)",new construction wood frame,in construction,in construction,in construction
+N200806275522,5400 GEARY BL,2018,1,7,5,41,41,2017,2,2016,2,"(37.7811050415, -122.4775924683)",new construction wood frame,in construction,in construction,in construction
+N201406249298,119 07TH ST,2018,4,7,2,39,39,2017,2,2017,1,"(37.7790718079, -122.4103088379)",new construction,not listed,in construction,in construction
+N201507161644,1238 SUTTER ST,2018,2,6,3,37,37,2017,2,2016,4,"(37.7879295349, -122.4208221436)",additions alterations or repairs,in construction,in construction,in construction
+N201504093240,22 FRANKLIN ST,2018,3,6,2,35,35,2017,2,2017,1,"(37.7747268677, -122.4206008911)",new construction,not listed,in construction,in construction
+N201508134190,240 - 290 PACIFIC AV,2018,4,6,1,33,33,2017,2,2017,2,"(37.797870636, -122.4004516602)",new construction,not listed,not listed,in construction
+N201606281077,75 ARKANSAS ST,2018,4,6,1,30,30,2017,2,2017,2,"(37.7653961182, -122.3984069824)",new construction wood frame,not listed,not listed,in construction
+N201512235830,1598 BAY ST,2018,4,6,1,28,28,2017,2,2017,2,"(37.8033714294, -122.433052063)",new construction wood frame,not listed,not listed,in construction
+N201501145720,27 KIRKWOOD AV,2018,3,5,1,21,21,2017,2,2017,2,"(37.7266921997, -122.3694915771)",new construction wood frame,not listed,not listed,in construction
+N201306149565,1255 - 1275 COLUMBUS AV,2018,3,5,1,20,20,2017,2,2017,2,"(37.8057098389, -122.4183807373)",new construction wood frame,not listed,not listed,in construction
+N201508063607,595 MARIPOSA ST,2018,3,5,1,20,20,2017,2,2017,2,"(37.7641410828, -122.3895263672)",new construction wood frame,not listed,not listed,in construction
+N201412113580,77 KIRKWOOD AV,2018,3,5,1,18,18,2017,2,2017,2,"(37.7271385193, -122.3709640503)",new construction wood frame,not listed,not listed,in construction
+N201404223881,1463 LOMBARD ST,2018,1,5,3,14,14,2017,2,2016,4,"(37.8008575439, -122.4254989624)",new construction,in construction,in construction,in construction
+N200712140534,1 STANYAN ST,2018,2,5,2,13,13,2017,2,2017,1,"(37.7810707092, -122.4565200806)",new construction wood frame,not listed,in construction,in construction
+N201410108646,949 NATOMA ST,2018,1,4,2,6,6,2017,2,2017,1,"(37.7739067078, -122.4153594971)",new construction wood frame,not listed,in construction,in construction
+N201410179280,4334 GEARY BL,2018,2,4,1,6,6,2017,2,2017,2,"(37.7812957764, -122.4660186768)",new construction,not listed,not listed,in construction
+N201510200295,1032 PACIFIC AV,2018,2,4,1,6,6,2017,2,2017,2,"(37.79637146, -122.4122619629)",new construction,not listed,not listed,in construction
+N201501085203,657 CAPP ST,2018,3,5,1,9,5,2017,2,2017,2,"(37.7562484741, -122.4174499512)",additions alterations or repairs,not listed,not listed,in construction
+N201502138349,854 CAPP ST,2018,3,5,1,6,5,2017,2,2017,2,"(37.7530059814, -122.4177322388)",new construction wood frame,not listed,not listed,in construction
+N201405216382,965 POWHATTAN AV,2018,3,5,1,4,4,2017,2,2017,2,"(37.7415084839, -122.4103469849)",new construction wood frame,not listed,not listed,in construction
+N201506239703,750 14TH ST,2018,3,5,1,14,4,2017,2,2017,2,"(37.7678756714, -122.4302902222)",additions alterations or repairs,not listed,not listed,in construction
+N201410169154,4171 24TH ST,2018,1,5,3,5,4,2017,2,2016,4,"(37.7509651184, -122.4355392456)",new construction,in construction,in construction,in construction
+N201505297566,3902 24TH ST,2018,3,5,1,3,3,2017,2,2017,2,"(37.751750946, -122.429901123)",new construction wood frame,not listed,not listed,in construction
+N200703307744,1225 DOLORES ST,2018,3,5,1,3,3,2017,2,2017,2,"(37.749835968, -122.4245376587)",new construction wood frame,not listed,not listed,in construction
+N201505227051,115 TELEGRAPH HILL BL,2018,3,5,1,3,3,2017,2,2017,2,"(37.8016014099, -122.40574646)",new construction,not listed,not listed,in construction
+N201410108600,44 WOODWARD ST,2018,2,5,2,3,3,2017,2,2017,1,"(37.7691421509, -122.4210510254)",new construction wood frame,not listed,in construction,in construction
+N201603081451,630 NATOMA ST,2018,3,5,1,3,3,2017,2,2017,2,"(37.7779350281, -122.4108123779)",new construction wood frame,not listed,not listed,in construction
+N201504234455,2755 MCALLISTER ST,2018,2,5,2,3,3,2017,2,2017,1,"(37.7750740051, -122.4574508667)",new construction wood frame,not listed,in construction,in construction
+N201505287452,811 TREAT AV,2018,2,5,2,7,2,2017,2,2017,1,"(37.7568702698, -122.4130859375)",additions alterations or repairs,not listed,in construction,in construction
+N201402269332,580 DE HARO ST,2018,2,5,2,2,2,2017,2,2017,1,"(37.7625656128, -122.4016952515)",new construction wood frame,not listed,in construction,in construction
+N201412184051,460 31ST AV,2018,3,5,1,2,2,2017,2,2017,2,"(37.7806282043, -122.4908905029)",new construction wood frame,not listed,not listed,in construction
+N201404173443,2621 HARRISON ST,2018,3,5,1,3,2,2017,2,2017,2,"(37.7553787231, -122.4118423462)",additions alterations or repairs,not listed,not listed,in construction
+N200803288288,1169 STANYAN ST,2018,3,5,1,2,2,2017,2,2017,2,"(37.7628746033, -122.4525527954)",new construction wood frame,not listed,not listed,in construction
+N201405236581,1236 ARGUELLO BL,2018,1,5,3,3,2,2017,2,2016,4,"(37.7652664185, -122.4573440552)",additions alterations or repairs,in construction,in construction,in construction
+N201503201461,2920 FRANKLIN ST,2018,3,5,1,2,2,2017,2,2017,2,"(37.8015365601, -122.425994873)",new construction wood frame,not listed,not listed,in construction
+N201605137452,38 BELVEDERE ST,2018,3,5,1,8,2,2017,2,2017,2,"(37.7691688538, -122.44921875)",additions alterations or repairs,not listed,not listed,in construction
+N201405155866,423 24TH AV,2018,3,5,1,3,2,2017,2,2017,2,"(37.7815666199, -122.4841003418)",additions alterations or repairs,not listed,not listed,in construction
+N201403271860,3527 18TH ST,2018,1,5,3,10,2,2017,2,2016,4,"(37.7614784241, -122.4222412109)",additions alterations or repairs,in construction,in construction,in construction
+N201411262632,151 BERNARD ST,2018,1,5,3,3,2,2017,2,2016,4,"(37.7960929871, -122.4159240723)",additions alterations or repairs,in construction,in construction,in construction
+N201502249220,1152 POTRERO AV,2018,3,5,1,3,2,2017,2,2017,2,"(37.7537078857, -122.4067459106)",additions alterations or repairs,not listed,not listed,in construction
+N201512235842,126 LAGUNA ST,2018,3,5,1,7,2,2017,2,2017,2,"(37.7722511292, -122.4251327515)",additions alterations or repairs,not listed,not listed,in construction
+N201408133730,160 BERNARD ST,2018,3,5,1,2,2,2017,2,2017,2,"(37.7963294983, -122.4160614014)",new construction,not listed,not listed,in construction
+N200804038738,1321 DE HARO ST,2018,1,5,3,3,2,2017,2,2016,4,"(37.7531356812, -122.4001693726)",new construction wood frame,in construction,in construction,in construction
+N201402078043,1236 19TH AV,2018,3,5,1,3,2,2017,2,2017,2,"(37.7646827698, -122.4768753052)",additions alterations or repairs,not listed,not listed,in construction
+N201505287372,175 MAYNARD ST,2018,2,4,1,2,1,2017,2,2017,2,"(37.7295913696, -122.4266052246)",additions alterations or repairs,not listed,not listed,in construction
+N201505126084,2 BONVIEW ST,2018,2,4,1,1,1,2017,2,2017,2,"(37.7449798584, -122.4158401489)",new construction wood frame,not listed,not listed,in construction
+N201608256030,1946 QUESADA AV,2018,2,4,1,2,1,2017,2,2017,2,"(37.7361793518, -122.3959197998)",additions alterations or repairs,not listed,not listed,in construction
+N201012076279,220 WILLIAMS AV,2018,2,4,1,1,1,2017,2,2017,2,"(37.7302360535, -122.397605896)",new construction wood frame,not listed,not listed,in construction
+N201703292632,1826 FILBERT ST,2018,2,4,1,2,1,2017,2,2017,2,"(37.7990188599, -122.4296951294)",otc alterations permit,not listed,not listed,in construction
+N201312265039,23 CANYON DR,2018,2,4,1,1,1,2017,2,2017,2,"(37.7084579468, -122.4319229126)",new construction wood frame,not listed,not listed,in construction
+N201410219535,167 HARVARD ST,2018,2,4,1,2,1,2017,2,2017,2,"(37.7275619507, -122.4207229614)",additions alterations or repairs,not listed,not listed,in construction
+N201312204680,2251 GREENWICH ST,2018,2,4,1,1,1,2017,2,2017,2,"(37.7985801697, -122.4367218018)",new construction,not listed,not listed,in construction
+N201603071401,1615 OAKDALE AV,2018,2,4,1,3,1,2017,2,2017,2,"(37.7348327637, -122.3912811279)",additions alterations or repairs,not listed,not listed,in construction
+N201601076586,1500 INNES AV,2018,2,4,1,3,1,2017,2,2017,2,"(37.7386360168, -122.3869171143)",additions alterations or repairs,not listed,not listed,in construction
+N201407312605,1318 HAMPSHIRE ST,2018,2,4,1,2,1,2017,2,2017,2,"(37.750995636, -122.4073410034)",additions alterations or repairs,not listed,not listed,in construction
+N201507313053,1230 21ST AV,2018,2,4,1,2,1,2017,2,2017,2,"(37.7647247314, -122.4790420532)",additions alterations or repairs,not listed,not listed,in construction
+N201411030494,2008 KEITH ST,2018,2,4,1,1,1,2017,2,2017,2,"(37.7285804749, -122.390411377)",new construction wood frame,not listed,not listed,in construction
+N201511233353,11 HILIRITAS AV,2018,1,4,2,1,1,2017,2,2017,1,"(37.7376098633, -122.4370422363)",new construction wood frame,not listed,in construction,in construction
+N201610039432,121 CAYUGA AV,2018,2,4,1,2,1,2017,2,2017,2,"(37.7309417725, -122.4308547974)",additions alterations or repairs,not listed,not listed,in construction
+N201412123652,37 BLAKE ST,2018,2,4,1,2,1,2017,2,2017,2,"(37.7830581665, -122.4516525269)",new construction wood frame,not listed,not listed,in construction
+N201303071745,680 SPRUCE ST,2018,1,4,2,2,1,2017,2,2017,1,"(37.7823066711, -122.4529724121)",additions alterations or repairs,not listed,in construction,in construction
+N201401307462,1117 HOWARD ST,2018,1,4,2,1,1,2017,2,2017,1,"(37.7774848938, -122.4095611572)",additions alterations or repairs,not listed,in construction,in construction
+N201411191947,116 ELSIE ST,2018,1,4,2,1,1,2017,2,2017,1,"(37.7428245544, -122.4179000854)",new construction wood frame,not listed,in construction,in construction
+N201407181635,647 DUNCAN ST,2018,1,4,2,1,1,2017,2,2017,1,"(37.7454032898, -122.4343338013)",new construction wood frame,not listed,in construction,in construction
+N201601227749,636 CAROLINA ST,2018,1,4,2,2,1,2017,2,2017,1,"(37.7605133057, -122.4005203247)",additions alterations or repairs,not listed,in construction,in construction
+N201602189872,3669 - 3671 23RD ST,2018,1,4,2,3,1,2017,2,2017,1,"(37.7533035278, -122.4245758057)",additions alterations or repairs,not listed,in construction,in construction
+N201404143170,2582 FILBERT ST,2018,1,4,2,1,1,2017,2,2017,1,"(37.7975311279, -122.4418640137)",new construction wood frame,not listed,in construction,in construction
+N201403261777,225 17TH AV,2018,1,4,2,2,1,2017,2,2017,1,"(37.783782959, -122.4767303467)",additions alterations or repairs,not listed,in construction,in construction
+N201112090432,209 PRENTISS ST,2018,1,4,2,1,1,2017,2,2017,1,"(37.7399940491, -122.411895752)",new construction wood frame,not listed,in construction,in construction
+N201410158900,19 ARGUELLO BL,2018,1,4,2,1,1,2017,2,2017,1,"(37.7891273499, -122.4598236084)",new construction wood frame,not listed,in construction,in construction
+N201311222590,1801 SCOTT ST,2018,1,4,2,1,1,2017,2,2017,1,"(37.786491394, -122.4385986328)",new construction wood frame,not listed,in construction,in construction
+N201512114904,1339 FRANCISCO ST,2018,1,4,2,3,1,2017,2,2017,1,"(37.8026390076, -122.4271850586)",additions alterations or repairs,not listed,in construction,in construction
+N201605177697,1199 DOLORES ST,2018,1,4,2,3,1,2017,2,2017,1,"(37.7503929138, -122.4246292114)",additions alterations or repairs,not listed,in construction,in construction
+N200803288274,1167 STANYAN ST,2018,2,4,1,1,1,2017,2,2017,2,"(37.7629432678, -122.4525680542)",new construction wood frame,not listed,not listed,in construction
+N201604154912,3646 16TH ST,2018,2,4,1,3,1,2017,2,2017,2,"(37.7644386292, -122.434211731)",additions alterations or repairs,not listed,not listed,in construction
+N201506259933,3551 PIERCE ST,2018,2,4,1,3,1,2017,2,2017,2,"(37.8033218384, -122.4403305054)",additions alterations or repairs,not listed,not listed,in construction
+N201504062845,3938 17TH ST,2018,2,4,1,2,1,2017,2,2017,2,"(37.7628326416, -122.4338378906)",additions alterations or repairs,not listed,not listed,in construction
+N201601147151,458 12TH AV,2018,2,4,1,3,1,2017,2,2017,2,"(37.7795791626, -122.4702911377)",additions alterations or repairs,not listed,not listed,in construction
+N201302281136,477 EUCALYPTUS DR,2018,2,4,1,1,1,2017,2,2017,2,"(37.7305030823, -122.4783859253)",new construction wood frame,not listed,not listed,in construction
+N201603283243,505 CHURCH ST,2018,2,4,1,11,1,2017,2,2017,2,"(37.7626533508, -122.4282913208)",additions alterations or repairs,not listed,not listed,in construction
+N201310310802,522 08TH AV,2018,2,4,1,2,1,2017,2,2017,2,"(37.7785301208, -122.465927124)",additions alterations or repairs,not listed,not listed,in construction
+N201305096539,53 MANZANITA AV,2018,2,4,1,2,1,2017,2,2017,2,"(37.7850036621, -122.4513549805)",additions alterations or repairs,not listed,not listed,in construction
+N201503191389,550 07TH AV,2018,2,4,1,2,1,2017,2,2017,2,"(37.7780990601, -122.4648208618)",additions alterations or repairs,not listed,not listed,in construction
+N200810295438,563 34TH AV,2018,2,4,1,2,1,2017,2,2017,2,"(37.7784080505, -122.4946212769)",additions alterations or repairs,not listed,not listed,in construction
+N201505126076,6 BONVIEW ST,2018,2,4,1,1,1,2017,2,2017,2,"(37.744884491, -122.4158706665)",new construction wood frame,not listed,not listed,in construction
+N201404304602,6423 CALIFORNIA ST,2018,2,4,1,2,1,2017,2,2017,2,"(37.7835693359, -122.4865112305)",additions alterations or repairs,not listed,not listed,in construction
+N201607142411,69 HENRY ST,2018,2,4,1,1,1,2017,2,2017,2,"(37.7664718628, -122.4325027466)",additions alterations or repairs,not listed,not listed,in construction
+N201701066618,76 OAKWOOD ST,2018,2,4,1,2,1,2017,2,2017,2,"(37.7603111267, -122.4251861572)",additions alterations or repairs,not listed,not listed,in construction
+N201411040616,831 CHENERY ST,2018,2,4,1,1,1,2017,2,2017,2,"(37.7346687317, -122.4361953735)",new construction wood frame,not listed,not listed,in construction
+N201404183603,852 GREEN ST,2018,2,4,1,2,1,2017,2,2017,2,"(37.7992706299, -122.4132080078)",additions alterations or repairs,not listed,not listed,in construction
+N201504214236,2536 PACHECO ST,2018,2,4,1,2,1,2017,2,2017,2,"(37.7502212524, -122.4876022339)",additions alterations or repairs,not listed,not listed,in construction
+N201602240424,2526 16TH AV,2018,2,4,1,2,1,2017,2,2017,2,"(37.740776062, -122.4719696045)",additions alterations or repairs,not listed,not listed,in construction
+N201510230698,2306 CASTRO ST,2018,2,4,1,1,1,2017,2,2017,2,"(37.7430839539, -122.4335784912)",new construction wood frame,not listed,not listed,in construction
+N201410159002,1560 DOLORES ST,2018,2,4,1,2,1,2017,2,2017,2,"(37.7443504333, -122.4248123169)",additions alterations or repairs,not listed,not listed,in construction
+N201510159839,2123 30TH AV,2018,2,4,1,2,1,2017,2,2017,2,"(37.7476272583, -122.4881591797)",additions alterations or repairs,not listed,not listed,in construction
+N201312134205,3721 21ST ST,2018,2,4,1,1,1,2017,2,2017,2,"(37.7560806274, -122.4306335449)",new construction wood frame,not listed,not listed,in construction
+N201410027946,371 12TH AV,2018,2,4,1,2,1,2017,2,2017,2,"(37.7813262939, -122.4710769653)",additions alterations or repairs,not listed,not listed,in construction
+N201412234391,37 RUTLEDGE ST,2018,2,4,1,1,1,2017,2,2017,2,"(37.7450218201, -122.4062423706)",new construction wood frame,not listed,not listed,in construction
+N201607051512,278 11TH AV,2018,2,4,1,3,1,2017,2,2017,2,"(37.7831344604, -122.4694747925)",additions alterations or repairs,not listed,not listed,in construction
+N201507091106,100 TERRA VISTA AV,2018,2,4,1,5,1,2017,2,2017,2,"(37.7816123962, -122.4437942505)",additions alterations or repairs,not listed,not listed,in construction
+N201601086723,206 SAN JOSE AV,2018,2,4,1,3,1,2017,2,2017,2,"(37.75182724, -122.4218444824)",additions alterations or repairs,not listed,not listed,in construction
+N201704264920,208 FLOOD AV,2018,2,4,1,2,1,2017,2,2017,2,"(37.7300262451, -122.4445266724)",additions alterations or repairs,not listed,not listed,in construction
+N201402259238,259 ROOSEVELT WY,2018,2,4,1,2,1,2017,2,2017,2,"(37.7656707764, -122.4402618408)",new construction wood frame,not listed,not listed,in construction
+N201506017714,93 SATURN ST,2018,2,4,1,3,1,2017,2,2017,2,"(37.762462616, -122.4428710938)",additions alterations or repairs,not listed,not listed,in construction
