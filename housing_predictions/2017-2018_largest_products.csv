@@ -1,51 +1,51 @@
 PERMIT_ID,NAMEADDR,YEAR_END_PREDICTED,QUARTER_END_PREDICTED,DURATION_PREDICTED,DURATION,UNITS,NET_UNITS,YEAR_END,QUARTER_END,YEAR_START,QUARTER_START,LOCATION,PERMIT_TYPE,2016Q4,2017Q1,2017Q2
-N201209069080,TRINITY PLAZA,2017,3,9,9,540,540,2017,2,2015,2,"(37.7779273987, -122.4130172729)",new construction,in construction,in construction,in construction
-N201309045886,801 BRANNAN ST,2017,3,9,9,434,434,2017,2,2015,2,"(37.7718238831, -122.4038848877)",new construction,in construction,in construction,in construction
-N201406138394,150 VAN NESS AV,2018,3,7,3,431,431,2017,2,2016,4,"(37.7773017883, -122.418296814)",new construction,in construction,in construction,in construction
-N201307303137,350 08TH ST,2017,1,9,9,408,408,2016,4,2014,4,"(37.77369416570, -122.40965844000)",new construction wood frame,in construction,not listed,not listed
-N201404304554,41 TEHAMA ST,2017,3,8,8,403,403,2017,2,2015,3,"(37.7869796753, -122.3966217041)",new construction,in construction,in construction,in construction
-N201406259383,800 INDIANA ST,2018,2,8,5,326,326,2017,2,2016,2,"(37.7591972351, -122.3917312622)",new construction,in construction,in construction,in construction
-N201312234917,1201 - 1225 TENNESSEE ST,2017,2,9,9,259,259,2017,1,2015,1,"(37.75592797410, -122.38860297300)",new construction,in construction,in construction,not listed
-N201404042522,MISSION BAY BLOCK 7,2017,1,5,5,200,200,2016,4,2015,4,"(37.77145701720, -122.39085776200)",new construction,in construction,not listed,not listed
-N201408133775,MISSION BAY BLOCK 1 (RESIDENTIAL) 03RD,2017,3,6,6,198,198,2017,2,2016,1,"(37.7750511169, -122.3906402588)",new construction,in construction,in construction,in construction
-N201312204747,706 MISSION ST,2018,3,5,1,185,185,2017,2,2017,2,"(37.7862052917, -122.4025344849)",additions alterations or repairs,not listed,not listed,in construction
-N201510301302,OCEANWIDE (MISSION ST TOWER),2018,3,5,1,153,153,2017,2,2017,2,"(37.7894706726, -122.3983840942)",new construction,not listed,not listed,in construction
-N201408133766,MISSION BAY BLOCK 1 (RESIDENTIAL) CHANNEL,2017,3,6,6,152,152,2017,2,2016,1,"(37.7750511169, -122.3906402588)",new construction,in construction,in construction,in construction
-N201507272485,MISSION BAY BLOCK 6E,2018,1,5,3,143,143,2017,2,2016,4,"(37.7714004517, -122.3917694092)",new construction,in construction,in construction,in construction
-N201305036062,555 FULTON ST,2017,3,12,12,139,139,2017,2,2014,3,"(37.7781677246, -122.4257507324)",new construction,in construction,in construction,in construction
-N201311202410,923 FOLSOM ST,2017,3,8,8,115,115,2017,2,2015,3,"(37.7796096802, -122.4033813477)",new construction,in construction,in construction,in construction
-N201602179822,168 - 186 EDDY ST,2018,4,6,1,113,113,2017,2,2017,2,"(37.7846603394, -122.410697937)",new construction,not listed,not listed,in construction
-N201411101145,1140 FOLSOM ST,2017,2,4,4,112,112,2017,1,2016,2,"(37.77623838020, -122.40895221600)",new construction,in construction,in construction,not listed
-N201312033256,1545 PINE ST,2017,2,4,4,100,100,2017,1,2016,2,"(37.78927210560, -122.42121122900)",new construction,in construction,in construction,not listed
-N201312093691,645 TEXAS ST,2017,3,8,8,94,94,2017,2,2015,3,"(37.7579650879, -122.394569397)",new construction wood frame,in construction,in construction,in construction
-N201401166470,HOPE SF ALICE GRIFFITH,2017,3,10,10,93,93,2017,2,2015,1,"(37.7193832397, -122.3849334717)",new construction wood frame,not listed,in construction,in construction
-N201406279814,2051 03RD ST,2017,3,7,7,93,93,2017,2,2015,4,"(37.7636375427, -122.3883590698)",new construction,in construction,in construction,in construction
-N201405286908,1075 MARKET ST,2018,2,6,3,90,90,2017,2,2016,4,"(37.7806434631, -122.4116134644)",new construction,in construction,in construction,in construction
-N201312134180,2198 MARKET ST,2017,2,10,10,87,87,2017,1,2014,4,"(37.76652671130, -122.43076850000)",new construction,in construction,in construction,not listed
-N201406249199,TRANSBAY BLOCK 7,2018,1,6,4,85,85,2017,2,2016,3,"(37.7887039185, -122.3936080933)",new construction,in construction,in construction,in construction
-N201406269523,1036 - 1040 MISSION ST,2018,2,6,3,83,83,2017,2,2016,4,"(37.7805862427, -122.4097824097)",new construction,in construction,in construction,in construction
-N201602230301,750 HARRISON ST,2018,2,6,3,79,79,2017,2,2016,4,"(37.7817802429, -122.3986740112)",new construction,in construction,in construction,in construction
-N201311222660,2101 & 2155 WEBSTER ST,2017,1,9,9,76,76,2016,4,2014,4,"(37.79029604810, -122.43277198400)",additions alterations or repairs,in construction,not listed,not listed
-N201305015894,181 FREMONT ST,2017,3,11,11,74,74,2017,2,2014,4,"(37.789642334, -122.3952178955)",new construction,in construction,in construction,in construction
-N201603172392,HOPE SF POTRERO (BP ISSUED),2018,4,7,2,72,72,2017,2,2017,1,"(37.7572364807, -122.3944473267)",new construction,not listed,in construction,in construction
-N200809252660,1450 FRANKLIN ST,2017,1,12,12,69,69,2016,4,2014,1,"(37.78805629210, -122.42325307500)",new construction,in construction,not listed,not listed
-N201303273113,344 - 388 FULTON ST,2017,2,10,10,69,69,2017,1,2014,4,"(37.77907202680, -122.42287966200)",new construction,in construction,in construction,not listed
-N201405054911,815 TENNESSEE ST,2018,2,6,3,69,69,2017,2,2016,4,"(37.7612266541, -122.389251709)",new construction,in construction,in construction,in construction
-N201211295086,200 - 214 06TH ST,2017,2,8,8,67,67,2017,1,2015,2,"(37.77937939100, -122.40710157300)",new construction,in construction,in construction,not listed
-N201006104250,5050 MISSION ST,2018,1,7,5,61,61,2017,2,2016,2,"(37.7177314758, -122.4405899048)",new construction,in construction,in construction,in construction
-N201402047761,2800 SLOAT BL,2017,3,6,6,56,56,2017,2,2016,1,"(37.7358551025, -122.504737854)",new construction,in construction,in construction,in construction
-N201312244992,650 INDIANA ST,2017,2,6,6,55,55,2017,1,2015,4,"(37.76214782950, -122.39186164300)",new construction wood frame,in construction,in construction,not listed
-N201204168406,800 PRESIDIO AV,2017,2,5,5,50,50,2017,1,2016,1,"(37.78404516130, -122.44574326200)",new construction,in construction,in construction,not listed
-N201507141495,1198 VALENCIA ST,2018,2,6,3,49,49,2017,2,2016,4,"(37.7539329529, -122.4211807251)",new construction wood frame,in construction,in construction,in construction
-N200602023710,570 JESSIE ST,2017,2,7,7,47,47,2017,1,2015,3,"(37.78077927600, -122.41031027400)",new construction,in construction,in construction,not listed
-N200806275522,5400 GEARY BL,2018,1,7,5,41,41,2017,2,2016,2,"(37.7811050415, -122.4775924683)",new construction wood frame,in construction,in construction,in construction
-N201306270646,55 LAGUNA ST (AFF SENIOR HOUSING),2017,1,1,1,40,40,2016,4,2016,4,"(37.77169712190, -122.42614664100)",additions alterations or repairs,in construction,not listed,not listed
-N201406249298,119 07TH ST,2018,4,7,2,39,39,2017,2,2017,1,"(37.7790718079, -122.4103088379)",new construction,not listed,in construction,in construction
-N201507161644,1238 SUTTER ST,2018,2,6,3,37,37,2017,2,2016,4,"(37.7879295349, -122.4208221436)",additions alterations or repairs,in construction,in construction,in construction
-N200806164548,226 06TH ST,2017,1,10,10,76,37,2016,4,2014,3,"(37.77915909870, -122.40682648000)",additions alterations or repairs,in construction,not listed,not listed
-N201504093240,22 FRANKLIN ST,2018,3,6,2,35,35,2017,2,2017,1,"(37.7747268677, -122.4206008911)",new construction,not listed,in construction,in construction
-N200602215057,1860 VAN NESS AV,2017,3,13,13,35,35,2017,2,2014,2,"(37.7929115295, -122.422416687)",new construction,in construction,in construction,in construction
-N201508134190,240 - 290 PACIFIC AV,2018,4,6,1,33,33,2017,2,2017,2,"(37.797870636, -122.4004516602)",new construction,not listed,not listed,in construction
-N201506159021,241 10TH ST,2017,4,6,5,32,32,2017,2,2016,2,"(37.773651123, -122.4134368896)",new construction wood frame,in construction,in construction,in construction
-N201606281077,75 ARKANSAS ST,2018,4,6,1,30,30,2017,2,2017,2,"(37.7653961182, -122.3984069824)",new construction wood frame,not listed,not listed,in construction
-N201312093685,580 HAYES ST,2017,3,8,8,29,29,2017,2,2015,3,"(37.7767562866, -122.42603302)",new construction wood frame,in construction,in construction,in construction
+201209069080,TRINITY PLAZA,2017,3,9,9,540,540,2017,2,2015,2,"(37.7779273987, -122.4130172729)",new construction,in construction,in construction,in construction
+201309045886,801 BRANNAN ST,2017,3,9,9,434,434,2017,2,2015,2,"(37.7718238831, -122.4038848877)",new construction,in construction,in construction,in construction
+201406138394,150 VAN NESS AV,2018,3,7,3,431,431,2017,2,2016,4,"(37.7773017883, -122.418296814)",new construction,in construction,in construction,in construction
+201307303137,350 08TH ST,2017,1,9,9,408,408,2016,4,2014,4,"(37.77369416570, -122.40965844000)",new construction wood frame,in construction,not listed,not listed
+201404304554,41 TEHAMA ST,2017,3,8,8,403,403,2017,2,2015,3,"(37.7869796753, -122.3966217041)",new construction,in construction,in construction,in construction
+201406259383,800 INDIANA ST,2018,2,8,5,326,326,2017,2,2016,2,"(37.7591972351, -122.3917312622)",new construction,in construction,in construction,in construction
+201312234917,1201 - 1225 TENNESSEE ST,2017,2,9,9,259,259,2017,1,2015,1,"(37.75592797410, -122.38860297300)",new construction,in construction,in construction,not listed
+201404042522,MISSION BAY BLOCK 7,2017,1,5,5,200,200,2016,4,2015,4,"(37.77145701720, -122.39085776200)",new construction,in construction,not listed,not listed
+201408133775,MISSION BAY BLOCK 1 (RESIDENTIAL) 03RD,2017,3,6,6,198,198,2017,2,2016,1,"(37.7750511169, -122.3906402588)",new construction,in construction,in construction,in construction
+201312204747,706 MISSION ST,2018,3,5,1,185,185,2017,2,2017,2,"(37.7862052917, -122.4025344849)",additions alterations or repairs,not listed,not listed,in construction
+201510301302,OCEANWIDE (MISSION ST TOWER),2018,3,5,1,153,153,2017,2,2017,2,"(37.7894706726, -122.3983840942)",new construction,not listed,not listed,in construction
+201408133766,MISSION BAY BLOCK 1 (RESIDENTIAL) CHANNEL,2017,3,6,6,152,152,2017,2,2016,1,"(37.7750511169, -122.3906402588)",new construction,in construction,in construction,in construction
+201507272485,MISSION BAY BLOCK 6E,2018,1,5,3,143,143,2017,2,2016,4,"(37.7714004517, -122.3917694092)",new construction,in construction,in construction,in construction
+201305036062,555 FULTON ST,2017,3,12,12,139,139,2017,2,2014,3,"(37.7781677246, -122.4257507324)",new construction,in construction,in construction,in construction
+201311202410,923 FOLSOM ST,2017,3,8,8,115,115,2017,2,2015,3,"(37.7796096802, -122.4033813477)",new construction,in construction,in construction,in construction
+201602179822,168 - 186 EDDY ST,2018,4,6,1,113,113,2017,2,2017,2,"(37.7846603394, -122.410697937)",new construction,not listed,not listed,in construction
+201411101145,1140 FOLSOM ST,2017,2,4,4,112,112,2017,1,2016,2,"(37.77623838020, -122.40895221600)",new construction,in construction,in construction,not listed
+201312033256,1545 PINE ST,2017,2,4,4,100,100,2017,1,2016,2,"(37.78927210560, -122.42121122900)",new construction,in construction,in construction,not listed
+201312093691,645 TEXAS ST,2017,3,8,8,94,94,2017,2,2015,3,"(37.7579650879, -122.394569397)",new construction wood frame,in construction,in construction,in construction
+201401166470,HOPE SF ALICE GRIFFITH,2017,3,10,10,93,93,2017,2,2015,1,"(37.7193832397, -122.3849334717)",new construction wood frame,not listed,in construction,in construction
+201406279814,2051 03RD ST,2017,3,7,7,93,93,2017,2,2015,4,"(37.7636375427, -122.3883590698)",new construction,in construction,in construction,in construction
+201405286908,1075 MARKET ST,2018,2,6,3,90,90,2017,2,2016,4,"(37.7806434631, -122.4116134644)",new construction,in construction,in construction,in construction
+201312134180,2198 MARKET ST,2017,2,10,10,87,87,2017,1,2014,4,"(37.76652671130, -122.43076850000)",new construction,in construction,in construction,not listed
+201406249199,TRANSBAY BLOCK 7,2018,1,6,4,85,85,2017,2,2016,3,"(37.7887039185, -122.3936080933)",new construction,in construction,in construction,in construction
+201406269523,1036 - 1040 MISSION ST,2018,2,6,3,83,83,2017,2,2016,4,"(37.7805862427, -122.4097824097)",new construction,in construction,in construction,in construction
+201602230301,750 HARRISON ST,2018,2,6,3,79,79,2017,2,2016,4,"(37.7817802429, -122.3986740112)",new construction,in construction,in construction,in construction
+201311222660,2101 & 2155 WEBSTER ST,2017,1,9,9,76,76,2016,4,2014,4,"(37.79029604810, -122.43277198400)",additions alterations or repairs,in construction,not listed,not listed
+201305015894,181 FREMONT ST,2017,3,11,11,74,74,2017,2,2014,4,"(37.789642334, -122.3952178955)",new construction,in construction,in construction,in construction
+201603172392,HOPE SF POTRERO (BP ISSUED),2018,4,7,2,72,72,2017,2,2017,1,"(37.7572364807, -122.3944473267)",new construction,not listed,in construction,in construction
+200809252660,1450 FRANKLIN ST,2017,1,12,12,69,69,2016,4,2014,1,"(37.78805629210, -122.42325307500)",new construction,in construction,not listed,not listed
+201303273113,344 - 388 FULTON ST,2017,2,10,10,69,69,2017,1,2014,4,"(37.77907202680, -122.42287966200)",new construction,in construction,in construction,not listed
+201405054911,815 TENNESSEE ST,2018,2,6,3,69,69,2017,2,2016,4,"(37.7612266541, -122.389251709)",new construction,in construction,in construction,in construction
+201211295086,200 - 214 06TH ST,2017,2,8,8,67,67,2017,1,2015,2,"(37.77937939100, -122.40710157300)",new construction,in construction,in construction,not listed
+201006104250,5050 MISSION ST,2018,1,7,5,61,61,2017,2,2016,2,"(37.7177314758, -122.4405899048)",new construction,in construction,in construction,in construction
+201402047761,2800 SLOAT BL,2017,3,6,6,56,56,2017,2,2016,1,"(37.7358551025, -122.504737854)",new construction,in construction,in construction,in construction
+201312244992,650 INDIANA ST,2017,2,6,6,55,55,2017,1,2015,4,"(37.76214782950, -122.39186164300)",new construction wood frame,in construction,in construction,not listed
+201204168406,800 PRESIDIO AV,2017,2,5,5,50,50,2017,1,2016,1,"(37.78404516130, -122.44574326200)",new construction,in construction,in construction,not listed
+201507141495,1198 VALENCIA ST,2018,2,6,3,49,49,2017,2,2016,4,"(37.7539329529, -122.4211807251)",new construction wood frame,in construction,in construction,in construction
+200602023710,570 JESSIE ST,2017,2,7,7,47,47,2017,1,2015,3,"(37.78077927600, -122.41031027400)",new construction,in construction,in construction,not listed
+200806275522,5400 GEARY BL,2018,1,7,5,41,41,2017,2,2016,2,"(37.7811050415, -122.4775924683)",new construction wood frame,in construction,in construction,in construction
+201306270646,55 LAGUNA ST (AFF SENIOR HOUSING),2017,1,1,1,40,40,2016,4,2016,4,"(37.77169712190, -122.42614664100)",additions alterations or repairs,in construction,not listed,not listed
+201406249298,119 07TH ST,2018,4,7,2,39,39,2017,2,2017,1,"(37.7790718079, -122.4103088379)",new construction,not listed,in construction,in construction
+201507161644,1238 SUTTER ST,2018,2,6,3,37,37,2017,2,2016,4,"(37.7879295349, -122.4208221436)",additions alterations or repairs,in construction,in construction,in construction
+200806164548,226 06TH ST,2017,1,10,10,76,37,2016,4,2014,3,"(37.77915909870, -122.40682648000)",additions alterations or repairs,in construction,not listed,not listed
+201504093240,22 FRANKLIN ST,2018,3,6,2,35,35,2017,2,2017,1,"(37.7747268677, -122.4206008911)",new construction,not listed,in construction,in construction
+200602215057,1860 VAN NESS AV,2017,3,13,13,35,35,2017,2,2014,2,"(37.7929115295, -122.422416687)",new construction,in construction,in construction,in construction
+201508134190,240 - 290 PACIFIC AV,2018,4,6,1,33,33,2017,2,2017,2,"(37.797870636, -122.4004516602)",new construction,not listed,not listed,in construction
+201506159021,241 10TH ST,2017,4,6,5,32,32,2017,2,2016,2,"(37.773651123, -122.4134368896)",new construction wood frame,in construction,in construction,in construction
+201606281077,75 ARKANSAS ST,2018,4,6,1,30,30,2017,2,2017,2,"(37.7653961182, -122.3984069824)",new construction wood frame,not listed,not listed,in construction
+201312093685,580 HAYES ST,2017,3,8,8,29,29,2017,2,2015,3,"(37.7767562866, -122.42603302)",new construction wood frame,in construction,in construction,in construction
